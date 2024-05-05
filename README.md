@@ -26,3 +26,10 @@ You will find the tutorial for the first part of the challenge in the folder **T
 The tutorial for the Hardware part is in the same folder under the name of *hardware-tutorial*.
 
 Good luck!
+
+Team: QuanTeam
+- Shahan Hawatian
+- Akash Malemath
+- Amey Rodge
+- Eric Vidal
+
